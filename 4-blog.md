@@ -1,10 +1,9 @@
 ---
-title: Landing
+title: Blog
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
-nav-menu: false
-show_tile: false
+description:
+image: assets/images/blog.jpg
+nav-menu: true
 ---
 
 <!-- Main -->

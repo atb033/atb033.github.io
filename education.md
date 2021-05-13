@@ -2,7 +2,8 @@
 layout: page
 title: Education
 description: Testing out stuffs
-nav-menu: true
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
