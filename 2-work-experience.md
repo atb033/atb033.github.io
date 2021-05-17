@@ -22,9 +22,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<!-- <a href="generic.html" class="image"> -->
 			<img src="{% link assets/images/workex/toadi.jpg %}" alt="" data-position="center center" />
-		</a>
+		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -35,9 +35,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<!-- <a href="generic.html" class="image"> -->
 			<img src="{% link assets/images/workex/unmanned.png %}" alt="" data-position="center center" />
-		</a>
+		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -48,9 +48,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<!-- <a href="generic.html" class="image"> -->
 			<img src="{% link assets/images/workex/iitm.jpg %}" alt="" data-position="center center" />
-		</a>
+		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -61,9 +61,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<!-- <a href="generic.html" class="image"> -->
 			<img src="{% link assets/images/workex/iisc.png %}" alt="" data-position="center center" />
-		</a>
+		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
