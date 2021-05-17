@@ -2,7 +2,7 @@
 title: Work Experience
 layout: landing
 description:
-image: assets/images/work-ex.jpg
+image: assets/images/work-ex.webp
 nav-menu: true
 ---
 
