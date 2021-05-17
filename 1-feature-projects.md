@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Multi Agent Path Planning</h3>
 				</header>
-				<p>Python implementation of some multi-agent path-planning algorithms such as </p>
+				<p>Python implementation of some multi-agent path-planning algorithms such as Conflict Based Search, SIPP, Velocity Obstacles and NMPC</p>
 				<ul class="actions">
 					<li><a href="https://atb033.github.io/multi_agent_path_planning/" class="button">See more</a></li>
 				</ul>
