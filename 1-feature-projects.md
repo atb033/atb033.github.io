@@ -2,7 +2,7 @@
 title: Featured Projects
 layout: landing
 description:
-image: assets/images/projects.jpg
+image: assets/images/projects.webp
 nav-menu: true
 ---
 

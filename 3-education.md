@@ -2,7 +2,7 @@
 title: Education
 layout: landing
 description:
-image: assets/images/books.jpg
+image: assets/images/books.webp
 nav-menu: true
 ---
 
