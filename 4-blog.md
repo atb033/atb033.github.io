@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/blog/voila_violin.webp %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/blog/voila_violin.webp %}" alt="" data-position="center center" height="300"/>
 		</a>
 		<div class="content">
 			<div class="inner">

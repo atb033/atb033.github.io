@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="assets/images/ecn-logo.png" alt="" data-position="center center" />
+		<img src="assets/images/ecn-logo.png" alt="" data-position="center center" height="300"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -38,7 +38,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/bits-logo.png" alt="" data-position="center center" />
+		<img src="assets/images/bits-logo.png" alt="" data-position="center center" height="300"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">

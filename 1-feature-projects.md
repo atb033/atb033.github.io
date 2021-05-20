@@ -23,7 +23,7 @@ nav-menu: true
 <section id="multi_agent_path_planning" class="spotlights">
 	<section>
 		<a href="https://atb033.github.io/multi_agent_path_planning/" class="image">
-			<img src="{% link assets/images/projects/nmpc_1.gif %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/projects/nmpc_1.gif %}" alt="" data-position="center center" height="300" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -43,7 +43,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/atb033/ecn_rolling_robot" class="image">
-			<img src="{% link assets/images/projects/ecn_rolling.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/projects/ecn_rolling.png %}" alt="" data-position="center center" height="300" />
 		</a>
 		<div class="content">
 			<div class="inner">
